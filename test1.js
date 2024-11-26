@@ -19,3 +19,4 @@ console.log("day14")
 console.log("day15")
 console.log("day16")
 console.log("day17")
+https://docs.google.com/presentation/d/186UqFbQQHPn6oMRfapDxmLUQf2KF9l8Y/edit?usp=drivesdk&ouid=101717357944039148445&rtpof=true&sd=true
